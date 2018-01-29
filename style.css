@@ -1,0 +1,15 @@
+a
+{
+	color:red;
+	 text-decoration: none; 
+}
+table
+{
+	position: absolute;
+	right:100px;
+	margin-top:0px;
+	top:10px;
+}
+td, th {
+text-align: center;
+}
